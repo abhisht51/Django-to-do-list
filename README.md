@@ -2,6 +2,8 @@
 
 This is a simple Django 3.0 project with my preferred setup. The app was built using the Django Rest framework and AJAX.
 
+Link: http://abhisht51.pythonanywhere.com/web
+
 ## Features
 
 - Django 3.0+
